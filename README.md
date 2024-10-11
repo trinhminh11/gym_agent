@@ -5,8 +5,8 @@ A brief description of what this project is about.
 
 ## Installation
 Steps to install the project:
-1. Clone the repository: `https://github.com/trinhminh11/Project-DL.git`
-2. Navigate to the project directory: `cd Project-DL`
+1. Clone the repository: `https://github.com/trinhminh11/gym_agent`
+2. Navigate to the project directory: `cd gym_agent`
 3. `pip install -r requirements.txt`
 
 ## Usage
